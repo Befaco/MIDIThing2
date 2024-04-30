@@ -13,4 +13,4 @@ Please click on Release section to get latest available binary file. Uploading c
 (To find out what firmware version is currently installed on your module, take a look at the splash screen that appears when you turn on the module)
 3. Install Teensy uploader app found [here](https://www.pjrc.com/teensy/loader.html) Or this [other tool](https://koromix.dev/tytools), just in case you want to dig in more Teensy funtionalities. 
 4. Connect Midi Thing V2 to your computer using USB device port.
-5. Run Teensy uploader and load hex file. If prompted by the app, press button at Teensy board in the back of the module to begin transfer…
+5. Run Teensy uploader and load hex file. If prompted by the app, press button at Teensy board in the back of the module to begin transfer.
