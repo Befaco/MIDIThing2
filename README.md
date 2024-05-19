@@ -5,7 +5,7 @@ MIDI Thing 2 is based in [Teensy4](https://www.pjrc.com/store/teensy40.html) and
 
 Current firmware has MIDI device, USB Host and TRS MIDI connectivity, SSD1306 OLED Screen and CV output for MAX11300. 
 
-In this repository you will find source code pretty soon. Please bare with us while we do the first set of bug fixing before we publish the code. Coming Really soon!
+In this repository you will find source code pretty soon. Please bear with us while we do the first set of bug fixing before we publish the code. Coming Really soon!
 
 Please click on Release section to get latest available binary file. Uploading code is quite simple thanks to PJRC teensy uploader tool.
 
