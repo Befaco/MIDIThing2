@@ -9,6 +9,7 @@ In this repository you will find source code pretty soon. Please bear with us wh
 
 Please click on Release section to get latest available binary file. Uploading code is quite simple thanks to PJRC teensy uploader tool.
 
+WARNING: Most likely old Saves will nto work on current version. Pelease wipe saves before updating.
 1. Get latest firmware file from releses section
 (To find out what firmware version is currently installed on your module, take a look at the splash screen that appears when you turn on the module)
 3. Install Teensy uploader app found [here](https://www.pjrc.com/teensy/loader.html) Or this [other tool](https://koromix.dev/tytools), just in case you want to dig in more Teensy functionalities. 
