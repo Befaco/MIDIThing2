@@ -1,4 +1,4 @@
-Mid Thing v2 is a flexible MIDI to CV converter. Allowing polyphonic notes handling, envelope and LFO generation, oscillatorsas well as all available MIDI messages to be converted into CV.
+Mid Thing v2 is a flexible MIDI to CV converter. Allowing polyphonic notes handling, envelope and LFO generation, oscillators as well as all available MIDI messages to be converted into CV.
 You can find Module details [here](https://www.befaco.org/midi-thing-v2/)
 
 MIDI Thing 2 is based in [Teensy4](https://www.pjrc.com/store/teensy40.html) and [MAX11300](https://www.analog.com/en/products/max11300.html), providing a mega flexible bi-directional digital to analog platform. MIDI thing is a MIDI to CV converter but, with time, can get to be much more!
